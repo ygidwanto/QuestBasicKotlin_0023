@@ -11,5 +11,6 @@ val contact = Contact(1,"mary@gmail.com")
     println(contact.email)
 
 
-
+    //update the value of the property: Email
+    contact.email = "jane@gmail.com"
 }
