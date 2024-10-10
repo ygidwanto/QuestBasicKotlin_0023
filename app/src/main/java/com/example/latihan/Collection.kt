@@ -1,10 +1,5 @@
 package com.example.latihan
 
-//List
-// List  ordered
-//List  mutable dan read only
-//List Read-Only
-// List Mutable
 
 fun ContohList() {
     println("=== List ===")
@@ -33,8 +28,4 @@ fun ContohList() {
     println(shapesLocked)
 }
 
-//
-//
-//
-//
-//
+
